@@ -1,0 +1,28 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore Unity auto-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Ignore asset store tools
+Assets/AssetStoreTools*
+
+# Ignore other files
+*.csproj
+*.sln
+*.user
+*.pidb
+*.userprefs
+*.suo
+*.tmp
+
+# Ignore temporary files
+*.bak
+*.swp
+*.sublime-workspace
